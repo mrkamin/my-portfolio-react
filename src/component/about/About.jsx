@@ -67,10 +67,14 @@ const About = () => {
           <p>
             {truncatedContent}
             {content.length > 200 && !isFullContentVisible && (
-              <button type="button" onClick={toggleContentVisibility}>Read More</button>
+              <button type="button" onClick={toggleContentVisibility}>
+                Read More
+              </button>
             )}
             {content.length > 200 && isFullContentVisible && (
-              <button type="button" onClick={toggleContentVisibility}>Read Less</button>
+              <button type="button" onClick={toggleContentVisibility}>
+                Read Less
+              </button>
             )}
           </p>
           <a href="#contact" className="btn btn-primary">
