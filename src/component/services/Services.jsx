@@ -1,6 +1,6 @@
-import React from "react";
-import "./services.css";
-import { BiCheck } from "react-icons/bi";
+import React from 'react';
+import './services.css';
+import { BiCheck } from 'react-icons/bi';
 
 const Services = () => (
   <section id="services">
