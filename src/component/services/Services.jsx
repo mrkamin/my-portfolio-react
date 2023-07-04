@@ -1,6 +1,6 @@
-import React from 'react';
-import './services.css';
-import { BiCheck } from 'react-icons/bi';
+import React from "react";
+import "./services.css";
+import { BiCheck } from "react-icons/bi";
 
 const Services = () => (
   <section id="services">
@@ -14,15 +14,15 @@ const Services = () => (
         <ul className="service_list">
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem, ipsum dolor sit amet consectetur</p>
+            <p>User-Centric: Prioritizing user needs.</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem, ipsum dolor sit amet consectetur</p>
+            <p>Visual Appeal: Engaging visual experiences.</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem, ipsum dolor sit amet consectetur</p>
+            <p>Consistency and Simplicity: Unified and intuitive design.</p>
           </li>
         </ul>
       </article>
@@ -33,19 +33,18 @@ const Services = () => (
         <ul className="service_list">
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem, ipsum dolor sit amet consectetur</p>
+            <p>Dynamic Interactivity: Real-time user engagement.</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem, ipsum dolor sit amet consectetur</p>
+            <p>Cross-Platform Compatibility: Seamless multi-device access.</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem, ipsum dolor sit amet consectetur</p>
-          </li>
-          <li>
-            <BiCheck className="service__list-icon" />
-            <p>Lorem, ipsum dolor sit amet consectetur</p>
+            <p>
+              Scalability and Flexibility: Adaptable and responsive web
+              solutions.
+            </p>
           </li>
         </ul>
       </article>
@@ -56,15 +55,15 @@ const Services = () => (
         <ul className="service_list">
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem, ipsum dolor sit amet consectetur</p>
+            <p>Relevance and Value: Audience-centric content creation.</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem, ipsum dolor sit amet consectetur</p>
+            <p>Creativity and Originality: Engaging unique and innovative content.</p>
           </li>
           <li>
             <BiCheck className="service__list-icon" />
-            <p>Lorem, ipsum dolor sit amet consectetur</p>
+            <p>Consistency and Strategy: Planned, strategic, and cohesive content.</p>
           </li>
         </ul>
       </article>
