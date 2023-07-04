@@ -26,7 +26,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Blog app <a name="about-project"></a>
+# 📖 Portfolio <a name="about-project"></a>
 
 > Welcome to my portfolio app built with React! This app serves as a showcase of my skills, experience, and abilities, designed specifically to demonstrate what I can offer to potential clients. Within the app, you can explore my projects, access my CV for a detailed overview of my qualifications, and connect with me through links to my GitHub and social media accounts. Feel free to explore and get in touch to discuss how I can contribute to your projects!
 <details>
