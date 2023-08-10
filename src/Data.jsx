@@ -21,6 +21,21 @@ const data = [
     tech: 'JavaScript | React | Ruby on Rails | Postgresql | HTML | CSS',
     github: 'https://github.com/Iqbal-Elham/Doctor-Reservation-frontend',
     demo: 'https://reserv-appoinment.onrender.com/',
+    details: [
+      {
+        title: 'Starting a new company is easy',
+      },
+      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
+      {
+        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
+      },
+      {
+        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+      },
+      {
+        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
+      },
+    ],
   },
   {
     id: 2,
@@ -30,6 +45,21 @@ const data = [
     tech: 'JavaScript | Webpack | HTML | CSS',
     github: 'https://github.com/mrkamin/JavaScript-capstone-project',
     demo: 'https://mrkamin.github.io/JavaScript-capstone-project/dist/',
+    details: [
+      {
+        title: 'Starting a new company is easy',
+      },
+      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
+      {
+        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
+      },
+      {
+        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+      },
+      {
+        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
+      },
+    ],
   },
   {
     id: 3,
@@ -39,6 +69,21 @@ const data = [
     tech: 'JavaScript | React | HTML | CSS',
     github: 'https://github.com/anthonymr/react-redux-group-project',
     demo: 'https://sp-axbh.onrender.com/',
+    details: [
+      {
+        title: 'Starting a new company is easy',
+      },
+      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
+      {
+        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
+      },
+      {
+        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+      },
+      {
+        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
+      },
+    ],
   },
   {
     id: 4,
@@ -57,6 +102,21 @@ const data = [
     tech: 'JavaScript | Webpack | HTML | CSS',
     github: 'https://github.com/mrkamin/ToDoList',
     demo: 'https://mrkamin.github.io/ToDoList/dist/',
+    details: [
+      {
+        title: 'Starting a new company is easy',
+      },
+      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
+      {
+        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
+      },
+      {
+        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+      },
+      {
+        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
+      },
+    ],
   },
   {
     id: 11,
@@ -66,6 +126,21 @@ const data = [
     tech: 'JavaScript | HTML | CSS',
     github: 'https://github.com/mrkamin/Capeston-Project',
     demo: 'https://mrkamin.github.io/Capeston-Project/',
+    details: [
+      {
+        title: 'Starting a new company is easy',
+      },
+      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
+      {
+        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
+      },
+      {
+        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+      },
+      {
+        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
+      },
+    ],
   },
   {
     id: 12,
@@ -75,6 +150,21 @@ const data = [
     tech: 'JavaScript | React | HTML | CSS',
     github: 'https://github.com/mrkamin/Metrics-webapp',
     demo: 'https://superb-puppy-322d9f.netlify.app/',
+    details: [
+      {
+        title: 'Starting a new company is easy',
+      },
+      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
+      {
+        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
+      },
+      {
+        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+      },
+      {
+        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
+      },
+    ],
   },
 
   {
@@ -85,6 +175,21 @@ const data = [
     tech: 'JavaScript | HTML | CSS',
     github: 'https://github.com/mrkamin/calculator-JavaScript/tree/Dev',
     demo: 'https://mrkamin.github.io/calculator-JavaScript/',
+    details: [
+      {
+        title: 'Starting a new company is easy',
+      },
+      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
+      {
+        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
+      },
+      {
+        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+      },
+      {
+        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
+      },
+    ],
   },
 
   {
@@ -93,8 +198,23 @@ const data = [
     title: 'PAIFJ',
     description: 'PAIFJ i an online news websit, Stay informed with our comprehensive news website. Explore breaking stories, in-depth articles, and diverse perspectives on global events, technology, culture, and more. Your go-to source for staying connected and up-to-date.',
     tech: 'JavaScript | React | HTML | CSS',
-    github: 'https://github.com/mrkamin/PAIFJ',
+    github: 'https://github.com/mrkamin/Paifj-website',
     demo: 'https://paifj.netlify.app/',
+    details: [
+      {
+        title: 'Starting a new company is easy',
+      },
+      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
+      {
+        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
+      },
+      {
+        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+      },
+      {
+        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
+      },
+    ],
   },
   {
     id: 15,
@@ -104,6 +224,21 @@ const data = [
     tech: 'JavaScript | React | HTML | CSS',
     github: 'https://github.com/mrkamin/math-magican',
     demo: 'https://musical-monstera-fb67ff.netlify.app/',
+    details: [
+      {
+        title: 'Starting a new company is easy',
+      },
+      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
+      {
+        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
+      },
+      {
+        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+      },
+      {
+        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
+      },
+    ],
   },
 ];
 export const avatardata = [
