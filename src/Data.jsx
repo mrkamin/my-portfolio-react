@@ -8,6 +8,9 @@ import Img7 from './assets/docterapp.JPG';
 import Img8 from './assets/foodrecipe.JPG';
 import Img9 from './assets/spacetravelers.JPG';
 import Img10 from './assets/JustCold.JPG';
+import AVTR1 from './assets/isamudasir.jpeg';
+import AVTR2 from './assets/ericumeohabike.jpeg';
+import AVTR3 from './assets/jawadnazari.jpeg';
 
 const data = [
   {
@@ -101,6 +104,29 @@ const data = [
     tech: 'JavaScript | React | HTML | CSS',
     github: 'https://github.com/mrkamin/math-magican',
     demo: 'https://musical-monstera-fb67ff.netlify.app/',
+  },
+];
+export const avatardata = [
+  {
+    id: 1,
+    image: AVTR1,
+    name: 'Issah Mudasir',
+    comment:
+      'Mohammed is a great software developer any company would love to have and a very good team player. I have had the pleasure of working with him several times. He is very passionate to learn as well as share knowledge. I would be more than happy to meet him again, he is a great.',
+  },
+  {
+    id: 2,
+    image: AVTR2,
+    name: 'Eric Umeohabike',
+    comment:
+      'Mohammad Rafi Amin is a very hard-working and intelligent developer who can easily tackle any Web development problem. We have worked on several projects, and I found him a highly skilled and dedicated coding partner. His expertise in the field of JavaScript, Ruby, and Redux has helped our team immensely and we finished projects before the deadlines all the time. I was impressed with his punctuality and responsibility. He’s also an all-around great guy to work with! I highly recommend him to anyone looking for help on their team or Web development project.',
+  },
+  {
+    id: 3,
+    image: AVTR3,
+    name: 'Jawad Nazari',
+    comment:
+      "Mohammad Rafi Amin is a bright software developer. I worked alongside him at MOBY and in that time he proved his commitment and determination over and over again. Rafi is always challenging himself—He's the type of person who reads documentation for fun, and his attention to detail is evident in all of the few projects I've worked with him on. He’s also genuinely kind and encouraging, and I can recommend him without reservation.",
   },
 ];
 
