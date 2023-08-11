@@ -32,10 +32,10 @@ const Footer = () => (
       </li>
     </ul>
     <div className="footer-socials">
-      <a href="https://www.facebook.com/mrkamin2">
+      <a href="https://www.facebook.com/mrkamin2" target="_blank" rel="noopener noreferrer">
         <FaFacebook />
       </a>
-      <a href="https://www.instagram.com/rafikambiz/?hl=en">
+      <a href="https://www.instagram.com/rafikambiz/?hl=en" target="_blank" rel="noopener noreferrer">
         <ImInstagram />
       </a>
     </div>
