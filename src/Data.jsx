@@ -17,7 +17,7 @@ const data = [
     id: 1,
     image: Img7,
     title: 'Doctor Appointment',
-    description: 'A todo list is a practical tool for organizing tasks. It allows users to input, prioritize, and track activities, enhancing productivity and goal management in various aspects of life.',
+    description: 'This project is made Reserve an appointment to a doctor. Doctor Reservation frontend is React frontend application for doctor book appointments. This application is responsive, and users can load, create, and delete doctors and reservations. Users need to sign up or sign in to access application. They can sign up or sign in using the sign up and login forms.',
     tech: 'JavaScript | React | Ruby on Rails | Postgresql | HTML | CSS',
     github: 'https://github.com/Iqbal-Elham/Doctor-Reservation-frontend',
     demo: 'https://reserv-appoinment.onrender.com/',
