@@ -12,7 +12,7 @@ const About = () => {
     setIsFullContentVisible(!isFullContentVisible);
   };
 
-  const content = `𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐌𝐞𝐧𝐭𝐨𝐫
+  const content = `𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐌𝐞𝐧𝐭𝐨𝐫 | 🎓 Bachelor's in Computer Science 🖥️
 
   In my years of experience, I've developed extensive knowledge in:
   [+] Full-stack development (JavaScript, React & Redux, Next.js, Ruby on Rails, TypeScript, PostgreSQL, HTML/CSS).
