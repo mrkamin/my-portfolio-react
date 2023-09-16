@@ -8,6 +8,7 @@ import Img7 from './assets/docterapp.JPG';
 import Img8 from './assets/foodrecipe.JPG';
 import Img9 from './assets/spacetravelers.JPG';
 import Img10 from './assets/JustCold.JPG';
+import Img11 from './assets/weatherappthemline.png';
 import AVTR1 from './assets/isamudasir.jpeg';
 import AVTR2 from './assets/ericumeohabike.jpeg';
 import AVTR3 from './assets/jawadnazari.jpeg';
@@ -15,6 +16,30 @@ import AVTR3 from './assets/jawadnazari.jpeg';
 const data = [
   {
     id: 1,
+    image: Img11,
+    title: 'Weather Application',
+    description: 'Create a weather application that retrieves and displays weather information for a specific location using a weather API. Users can enter a city name, and the app will fetch and display the current weather conditions. Use HTML for the user interface, CSS for styling, and JavaScript to fetch data from the API and dynamically update the weather information.',
+    tech: 'JavaScript | HTML | CSS',
+    github: 'https://github.com/mrkamin/TAIRP-weather-app',
+    demo: 'https://mrkamin.github.io/TAIRP-weather-app/',
+    details: [
+      {
+        title: 'Starting a new company is easy',
+      },
+      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
+      {
+        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
+      },
+      {
+        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+      },
+      {
+        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
+      },
+    ],
+  },
+  {
+    id: 2,
     image: Img7,
     title: 'Doctor Appointment',
     description: 'This project is made Reserve an appointment to a doctor. Doctor Reservation frontend is React frontend application for doctor book appointments. This application is responsive, and users can load, create, and delete doctors and reservations. Users need to sign up or sign in to access application. They can sign up or sign in using the sign up and login forms.',
@@ -38,7 +63,7 @@ const data = [
     ],
   },
   {
-    id: 2,
+    id: 3,
     image: Img8,
     title: 'Food Recipe',
     description: 'The JavaScript capstone project is about building a web application based on an external API. The webapp will have 2 or 3 user interfaces. user can see the list of foods and is able to put comments and likes to the each food.',
@@ -62,7 +87,7 @@ const data = [
     ],
   },
   {
-    id: 3,
+    id: 4,
     image: Img9,
     title: 'Space Travelers Hub',
     description: 'This is a React WebApp with real live data from the SpaceX API. The application will allow users to book rockets and join selected space missions. Built with JavaScript, ReactJS, Redux and CSS3',
@@ -86,7 +111,7 @@ const data = [
     ],
   },
   {
-    id: 4,
+    id: 5,
     image: Img10,
     title: 'JustCold E-commerce App Product list',
     description: 'I developed JustCold, an E-commerce app, using React for the frontend and Ruby on Rails for the backend. It enables clients to browse and purchase products seamlessly. Explore the app at https://justcold.onrender.com/.',
