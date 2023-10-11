@@ -9,6 +9,7 @@ import Img8 from './assets/foodrecipe.JPG';
 import Img9 from './assets/spacetravelers.JPG';
 import Img10 from './assets/JustCold.JPG';
 import Img11 from './assets/weatherappthemline.png';
+import Img12 from './assets/Shoping cart.PNG';
 import AVTR1 from './assets/isamudasir.jpeg';
 import AVTR2 from './assets/ericumeohabike.jpeg';
 import AVTR3 from './assets/jawadnazari.jpeg';
@@ -16,27 +17,12 @@ import AVTR3 from './assets/jawadnazari.jpeg';
 const data = [
   {
     id: 1,
-    image: Img11,
-    title: 'Weather Application',
-    description: 'Create a weather application that retrieves and displays weather information for a specific location using a weather API. Users can enter a city name, and the app will fetch and display the current weather conditions. Use HTML for the user interface, CSS for styling, and JavaScript to fetch data from the API and dynamically update the weather information.',
-    tech: 'JavaScript | HTML | CSS',
-    github: 'https://github.com/mrkamin/TAIRP-weather-app',
-    demo: 'https://mrkamin.github.io/TAIRP-weather-app/',
-    details: [
-      {
-        title: 'Starting a new company is easy',
-      },
-      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
-      },
-    ],
+    image: Img12,
+    title: 'e-commerce website',
+    description: 'enhancing the shopping cart experience for an e-commerce website. Users have provided feedback that the current shopping cart lacks intuitive features and is not user-friendly. They want an improved interface that allows for easier item management, visibility of the total cost, and a smooth checkout process.',
+    tech: 'JavaScript | HTML | CSS | ReactJs',
+    github: 'https://github.com/mrkamin/Aide-Academy-shopping-cart',
+    demo: 'https://shopping-u6pn.onrender.com/',
   },
   {
     id: 2,
@@ -46,45 +32,6 @@ const data = [
     tech: 'JavaScript | React | Ruby on Rails | Postgresql | HTML | CSS',
     github: 'https://github.com/Iqbal-Elham/Doctor-Reservation-frontend',
     demo: 'https://reserv-appoinment.onrender.com/',
-    details: [
-      {
-        title: 'Starting a new company is easy',
-      },
-      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
-      },
-    ],
-  },
-  {
-    id: 3,
-    image: Img8,
-    title: 'Food Recipe',
-    description: 'The JavaScript capstone project is about building a web application based on an external API. The webapp will have 2 or 3 user interfaces. user can see the list of foods and is able to put comments and likes to the each food.',
-    tech: 'JavaScript | Webpack | HTML | CSS',
-    github: 'https://github.com/mrkamin/JavaScript-capstone-project',
-    demo: 'https://mrkamin.github.io/JavaScript-capstone-project/dist/',
-    details: [
-      {
-        title: 'Starting a new company is easy',
-      },
-      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
-      },
-    ],
   },
   {
     id: 4,
@@ -94,21 +41,15 @@ const data = [
     tech: 'JavaScript | React | HTML | CSS',
     github: 'https://github.com/anthonymr/react-redux-group-project',
     demo: 'https://sp-axbh.onrender.com/',
-    details: [
-      {
-        title: 'Starting a new company is easy',
-      },
-      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
-      },
-    ],
+  },
+  {
+    id: 12,
+    image: Img3,
+    title: 'Stock Screener',
+    description: 'This capstone project I am going to build is based on an online website for a Stock Screener.This App is a tool quickly find current stock prices in USA companies...In this Repo (Metrics-webapp) 😊 I made the two Components (The home Component. The Details Component).👌',
+    tech: 'JavaScript | React | HTML | CSS',
+    github: 'https://github.com/mrkamin/Metrics-webapp',
+    demo: 'https://superb-puppy-322d9f.netlify.app/',
   },
   {
     id: 5,
@@ -120,6 +61,44 @@ const data = [
     demo: 'https://justcold.onrender.com/',
   },
   {
+    id: 14,
+    image: Img5,
+    title: 'PAIFJ',
+    description: 'PAIFJ i an online news websit, Stay informed with our comprehensive news website. Explore breaking stories, in-depth articles, and diverse perspectives on global events, technology, culture, and more. Your go-to source for staying connected and up-to-date.',
+    tech: 'JavaScript | React | HTML | CSS',
+    github: 'https://github.com/mrkamin/Paifj-website',
+    demo: 'https://paifj.netlify.app/',
+  },
+  {
+    id: 15,
+    image: Img6,
+    title: 'Math-Magican',
+    description: 'Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations. Read a random math-related quote.',
+    tech: 'JavaScript | React | HTML | CSS',
+    github: 'https://github.com/mrkamin/math-magican',
+    demo: 'https://musical-monstera-fb67ff.netlify.app/',
+  },
+  {
+    id: 16,
+    image: Img11,
+    title: 'Weather Application',
+    description: 'Create a weather application that retrieves and displays weather information for a specific location using a weather API. Users can enter a city name, and the app will fetch and display the current weather conditions. Use HTML for the user interface, CSS for styling, and JavaScript to fetch data from the API and dynamically update the weather information.',
+    tech: 'JavaScript | HTML | CSS',
+    github: 'https://github.com/mrkamin/TAIRP-weather-app',
+    demo: 'https://mrkamin.github.io/TAIRP-weather-app/',
+  },
+
+  {
+    id: 3,
+    image: Img8,
+    title: 'Food Recipe',
+    description: 'The JavaScript capstone project is about building a web application based on an external API. The webapp will have 2 or 3 user interfaces. user can see the list of foods and is able to put comments and likes to the each food.',
+    tech: 'JavaScript | Webpack | HTML | CSS',
+    github: 'https://github.com/mrkamin/JavaScript-capstone-project',
+    demo: 'https://mrkamin.github.io/JavaScript-capstone-project/dist/',
+  },
+
+  {
     id: 10,
     image: Img1,
     title: 'To-Do list',
@@ -127,21 +106,6 @@ const data = [
     tech: 'JavaScript | Webpack | HTML | CSS',
     github: 'https://github.com/mrkamin/ToDoList',
     demo: 'https://mrkamin.github.io/ToDoList/dist/',
-    details: [
-      {
-        title: 'Starting a new company is easy',
-      },
-      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
-      },
-    ],
   },
   {
     id: 11,
@@ -151,45 +115,6 @@ const data = [
     tech: 'JavaScript | HTML | CSS',
     github: 'https://github.com/mrkamin/Capeston-Project',
     demo: 'https://mrkamin.github.io/Capeston-Project/',
-    details: [
-      {
-        title: 'Starting a new company is easy',
-      },
-      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
-      },
-    ],
-  },
-  {
-    id: 12,
-    image: Img3,
-    title: 'Stock Screener',
-    description: 'This capstone project I am going to build is based on an online website for a Stock Screener.This App is a tool quickly find current stock prices in USA companies...In this Repo (Metrics-webapp) 😊 I made the two Components (The home Component. The Details Component).👌',
-    tech: 'JavaScript | React | HTML | CSS',
-    github: 'https://github.com/mrkamin/Metrics-webapp',
-    demo: 'https://superb-puppy-322d9f.netlify.app/',
-    details: [
-      {
-        title: 'Starting a new company is easy',
-      },
-      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
-      },
-    ],
   },
 
   {
@@ -200,71 +125,8 @@ const data = [
     tech: 'JavaScript | HTML | CSS',
     github: 'https://github.com/mrkamin/calculator-JavaScript/tree/Dev',
     demo: 'https://mrkamin.github.io/calculator-JavaScript/',
-    details: [
-      {
-        title: 'Starting a new company is easy',
-      },
-      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
-      },
-    ],
   },
 
-  {
-    id: 14,
-    image: Img5,
-    title: 'PAIFJ',
-    description: 'PAIFJ i an online news websit, Stay informed with our comprehensive news website. Explore breaking stories, in-depth articles, and diverse perspectives on global events, technology, culture, and more. Your go-to source for staying connected and up-to-date.',
-    tech: 'JavaScript | React | HTML | CSS',
-    github: 'https://github.com/mrkamin/Paifj-website',
-    demo: 'https://paifj.netlify.app/',
-    details: [
-      {
-        title: 'Starting a new company is easy',
-      },
-      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
-      },
-    ],
-  },
-  {
-    id: 15,
-    image: Img6,
-    title: 'Math-Magican',
-    description: 'Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations. Read a random math-related quote.',
-    tech: 'JavaScript | React | HTML | CSS',
-    github: 'https://github.com/mrkamin/math-magican',
-    demo: 'https://musical-monstera-fb67ff.netlify.app/',
-    details: [
-      {
-        title: 'Starting a new company is easy',
-      },
-      { para1: 'Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.' },
-      {
-        quote: "Scarfs, still not this no with explains it me and option on the any options roasted when I and state can that an don't subjective of has his take on and in from royal everything took raising our have behind success you the mechanic.",
-      },
-      {
-        para2: "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
-      },
-      {
-        para3: 'In an ideal world this website wouldn’t exist, a client would acknowledge the importance of having web copy before the design starts. Needless to say it’s very important, content is king and people are beginning to understand that. However, back over in reality some project schedules and budgets don’t allow for web copy to be written before the design phase, this is sad but true.',
-      },
-    ],
-  },
 ];
 export const avatardata = [
   {
