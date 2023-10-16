@@ -10,11 +10,21 @@ import Img9 from './assets/spacetravelers.JPG';
 import Img10 from './assets/JustCold.JPG';
 import Img11 from './assets/weatherappthemline.png';
 import Img12 from './assets/Shoping cart.PNG';
+import Img13 from './assets/Joingroup.PNG';
 import AVTR1 from './assets/isamudasir.jpeg';
 import AVTR2 from './assets/ericumeohabike.jpeg';
 import AVTR3 from './assets/jawadnazari.jpeg';
 
 const data = [
+  {
+    id: 20,
+    image: Img13,
+    title: 'banao-social-media',
+    description: 'In this Project, a group page is designed for both mobile and desktop. The objective of this task is to test UI implementation skills from scratch. The webpage should be completely responsive.',
+    tech: 'JavaScript | React | Ruby on Rails | Postgresql | HTML | CSS',
+    github: 'https://github.com/mrkamin/banao-social-media/tree/design-page',
+    demo: 'https://bano.onrender.com/',
+  },
   {
     id: 1,
     image: Img12,
