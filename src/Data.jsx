@@ -21,7 +21,7 @@ const data = [
     id: 6,
     image: Img14,
     title: 'banao-Portfolio',
-    description: 'In this Project, a group page is designed for both mobile and desktop. and it have is build in React I have apply scrolling event and animation using GSAP Library The objective of this task is to test UI implementation skills from scratch. The webpage should be completely responsive.',
+    description: 'In this Project, navagation and scrolling event betwween react component is designed for both mobile and desktop. and it have is build in React I have apply scrolling event and animation using GSAP Library The objective of this task is to test UI implementation skills from scratch. The webpage should be completely responsive.',
     tech: 'JavaScript | React | HTML | CSS | GSAP',
     github: 'https://github.com/mrkamin/Responsiveness-javascript--advanced-',
     demo: 'https://banao-resp.onrender.com/',
