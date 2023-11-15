@@ -12,11 +12,21 @@ import Img11 from './assets/weatherappthemline.png';
 import Img12 from './assets/Shoping cart.PNG';
 import Img13 from './assets/Joingroup.PNG';
 import Img14 from './assets/timline.PNG';
+import Img15 from './assets/website-analytic.png';
 import AVTR1 from './assets/isamudasir.jpeg';
 import AVTR2 from './assets/ericumeohabike.jpeg';
 import AVTR3 from './assets/jawadnazari.jpeg';
 
 const data = [
+  {
+    id: 100,
+    image: Img15,
+    title: 'React UI Implementation',
+    description: 'In this Project, create a React application that replicates the UI provided in the linked Figma design and integrates with a demo API to fetch and display data.',
+    tech: 'JavaScript | React | API | Bootstrap | Redux',
+    github: 'https://github.com/mrkamin/Frontend-Assignment-React-UI-Implementation',
+    demo: 'https://website-analytic.onrender.com/',
+  },
   {
     id: 6,
     image: Img14,
