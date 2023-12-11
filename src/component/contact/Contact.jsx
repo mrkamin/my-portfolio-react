@@ -15,7 +15,7 @@ const Contact = () => {
       'service_kxwsuog',
       'template_zpovvd6',
       form.current,
-      '_Q1pSPIMkmnt09CvC',
+      'N8cDZe2F2T0g3JvfC',
     );
     e.target.reset();
   };
