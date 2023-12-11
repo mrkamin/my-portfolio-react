@@ -1,10 +1,10 @@
-import React, { useRef } from "react";
-import "./contact.css";
-import { SiMinutemailer } from "react-icons/si";
-import { RiMessengerFill } from "react-icons/ri";
-import { BsWhatsapp } from "react-icons/bs";
+import React, { useRef } from 'react';
+import './contact.css';
+import { SiMinutemailer } from 'react-icons/si';
+import { RiMessengerFill } from 'react-icons/ri';
+import { BsWhatsapp } from 'react-icons/bs';
 
-import emailjs from "emailjs-com";
+import emailjs from 'emailjs-com';
 
 const Contact = () => {
   const form = useRef();
@@ -12,10 +12,10 @@ const Contact = () => {
     e.preventDefault();
 
     emailjs.sendForm(
-      "service_kxwsuog",
-      "template_zpovvd6",
+      'service_kxwsuog',
+      'template_zpovvd6',
       form.current,
-      "_Q1pSPIMkmnt09CvC"
+      '_Q1pSPIMkmnt09CvC',
     );
     e.target.reset();
   };
