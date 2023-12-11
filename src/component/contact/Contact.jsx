@@ -1,4 +1,4 @@
-import React, { useRef } from 'react';
+import React, { useRef, useState } from 'react';
 import './contact.css';
 import { SiMinutemailer } from 'react-icons/si';
 import { RiMessengerFill } from 'react-icons/ri';
@@ -8,6 +8,8 @@ import emailjs from 'emailjs-com';
 
 const Contact = () => {
   const form = useRef();
+  const [isEmailSent, setIsEmailSent] = useState(false);
+
   const sendEmail = (e) => {
     e.preventDefault();
 
@@ -16,8 +18,16 @@ const Contact = () => {
       'template_zpovvd6',
       form.current,
       'N8cDZe2F2T0g3JvfC',
-    );
-    e.target.reset();
+    ).then(() => {
+      setIsEmailSent(true);
+      e.target.reset();
+
+      setTimeout(() => {
+        setIsEmailSent(false);
+      }, 4000);
+    }).catch((error) => {
+      console.error('Error Sending Email:', error);
+    });
   };
   return (
     <section id="contact">
@@ -62,24 +72,31 @@ const Contact = () => {
             </a>
           </div>
         </div>
-        <form ref={form} onSubmit={sendEmail}>
-          <input
-            type="text"
-            name="name"
-            placeholder="Your Full Name"
-            required
-          />
-          <input type="email" name="email" placeholder="Your Email" required />
-          <textarea
-            name="message"
-            rows="7"
-            placeholder="Your Message"
-            required
-          />
-          <button type="submit" className="btn btn-primary">
-            Send Message
-          </button>
-        </form>
+        <div>
+          {isEmailSent ? (
+            <p>Email Successfully sent!</p>
+          ) : (
+            <form ref={form} onSubmit={sendEmail}>
+              <input
+                type="text"
+                name="name"
+                placeholder="Your Full Name"
+                required
+              />
+              <input type="email" name="email" placeholder="Your Email" required />
+              <textarea
+                name="message"
+                rows="7"
+                placeholder="Your Message"
+                required
+              />
+              <button type="submit" className="btn btn-primary">
+                Send Message
+              </button>
+            </form>
+          )}
+        </div>
+
       </div>
     </section>
   );
